@@ -10,6 +10,8 @@ public class LocatorsDemo1 {
 	public static void main(String[] args) {
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\patel\\Webdriver\\chromedriver.exe");
+		
+		//Instantiate chromedriver class
 		WebDriver driver = new ChromeDriver();
 		// driver.get("http://automationpractice.com/index.php");
 		driver.navigate().to("http://automationpractice.com/index.php");

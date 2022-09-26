@@ -20,7 +20,6 @@ public class CssSelectorDemo1 {
 		
 		//Tag and attribute
 		
-
 		//driver.findElement(By.cssSelector("input[data-testid='royal_pass']")).sendKeys("Re123435668");
 
 		//Tag, class and attributes
